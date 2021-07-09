@@ -1,5 +1,5 @@
 /* Default color scheme */
-@import url("../../colors3");
+@import url("/home/misterio/.themes/colors3");
 
 /* colormap actually used by the theme, to be overridden in other css files */
 @define-color theme_bg_color @bg_color;

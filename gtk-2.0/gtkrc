@@ -1,6 +1,6 @@
 #modded Numix gtkrc
 
-include "../../colors2"
+include "/home/misterio/.themes/colors2"
 gtk-auto-mnemonics	= 1
 
 # Default Style
